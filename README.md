@@ -1,3 +1,14 @@
+# IMPORTANT!
+This is Kadro fork of lib.
+Used in RCP - no longer maintained.
+
+This fork has implemented bugfix which fixes Android builds.
+
+Besides that - lib works pretty much stable.
+
+DO NOT REMOVE THIS REPO unless you migrate to other library.
+
+
 # react-native-screen-brightness
 
 Access and update the system brightness on a device.
